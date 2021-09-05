@@ -12,7 +12,7 @@ It contains only numerical input variables which are the result of a PCA transfo
 add Codeadd Markdown
 This paper will compare various data balancing techniques with powerful boosting models. Models used here are Random Forest, XGBoost and LGB. We will look at precision-recall curve and roc curve.
 
-add Codeadd Markdown
+
 Content
 1. Imports and reading dataset
 2. Exploratory Data Analysis
