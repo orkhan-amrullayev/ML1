@@ -14,16 +14,16 @@ This paper will compare various data balancing techniques with powerful boosting
 
 
 Content
-1. Imports and reading dataset
-2. Exploratory Data Analysis
-3. Dealing with unbalanced dataset
+    1. Imports and reading dataset
+    2. Exploratory Data Analysis
+    3. Dealing with unbalanced dataset
   3.1 Without balancing
 
   3.2 Undersampling
 
   3.3 Oversampling
 
-4. Building function for 3 models:
+    4. Building function for 3 models:
 
   4.1 Random forest classifier
 
@@ -31,8 +31,8 @@ Content
 
   4.3 LightGBM
 
-5. Comparison of result of the models with "Without balancing", "Undersampling", "Oversampling" options
-6. Conclusion
+    5. Comparison of result of the models with "Without balancing", "Undersampling", "Oversampling" options
+    6. Conclusion
 
 
 
