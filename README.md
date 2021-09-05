@@ -1,5 +1,8 @@
 Fraud Detection in Bank Transactions
+
 Orkhan Amrullayev
+
+
 In this paper, bank transactions will be used to predict fraudulent ones.
 
 As per description of the dataset, it contains transactions made by credit cards in September 2013 by European cardholders. This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.
@@ -21,6 +24,7 @@ Content
 3.3 Oversampling
 
 4. Building function for 3 models:
+
 4.1 Random forest classifier
 
 4.2 XGBoost
