@@ -17,11 +17,9 @@ Content
 1. Imports and reading dataset
 2. Exploratory Data Analysis
 3. Dealing with unbalanced dataset
-  - Without balancing
-
-  - Undersampling
-
-  - Oversampling
+- Without balancing
+- Undersampling
+- Oversampling
 
 4. Building function for 3 models:
 
