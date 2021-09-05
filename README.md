@@ -17,19 +17,19 @@ Content
 1. Imports and reading dataset
 2. Exploratory Data Analysis
 3. Dealing with unbalanced dataset
-3.1 Without balancing
+  3.1 Without balancing
 
-3.2 Undersampling
+  3.2 Undersampling
 
-3.3 Oversampling
+  3.3 Oversampling
 
 4. Building function for 3 models:
 
-4.1 Random forest classifier
+  4.1 Random forest classifier
 
-4.2 XGBoost
+  4.2 XGBoost
 
-4.3 LightGBM
+  4.3 LightGBM
 
 5. Comparison of result of the models with "Without balancing", "Undersampling", "Oversampling" options
 6. Conclusion
@@ -59,10 +59,10 @@ Content
 6. Label encoding
 7. Modelling
 8. DecisionTree
-- RandomForest
-- KNeighbors
-- AdaBoostRegressor
-- GradientBoosting
-- XGBRegressor
+  - RandomForest
+  - KNeighbors
+  - AdaBoostRegressor
+  - GradientBoosting
+  - XGBRegressor
 9. Cross Validation
 10. Model Accuracy Comparison
