@@ -17,19 +17,19 @@ Content
 1. Imports and reading dataset
 2. Exploratory Data Analysis
 3. Dealing with unbalanced dataset
-  3.1 Without balancing
+  - Without balancing
 
-  3.2 Undersampling
+  - Undersampling
 
-  3.3 Oversampling
+  - Oversampling
 
 4. Building function for 3 models:
 
-  4.1 Random forest classifier
+  - Random forest classifier
 
-  4.2 XGBoost
+  - XGBoost
 
-  4.3 LightGBM
+  - LightGBM
 
 5. Comparison of result of the models with "Without balancing", "Undersampling", "Oversampling" options
 6. Conclusion
